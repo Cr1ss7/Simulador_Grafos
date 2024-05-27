@@ -1,0 +1,24 @@
+C:\Users\aleja\source\repos\Guia10_EJE1\Guia10_EJE1\bin\Debug\Guia10_EJE1.exe.config
+C:\Users\aleja\source\repos\Guia10_EJE1\Guia10_EJE1\bin\Debug\Guia10_EJE1.exe
+C:\Users\aleja\source\repos\Guia10_EJE1\Guia10_EJE1\bin\Debug\Guia10_EJE1.pdb
+C:\Users\aleja\source\repos\Guia10_EJE1\Guia10_EJE1\obj\Debug\Guia10_EJE1.csproj.AssemblyReference.cache
+C:\Users\aleja\source\repos\Guia10_EJE1\Guia10_EJE1\obj\Debug\Guia10_EJE1.Simulador.resources
+C:\Users\aleja\source\repos\Guia10_EJE1\Guia10_EJE1\obj\Debug\Guia10_EJE1.Properties.Resources.resources
+C:\Users\aleja\source\repos\Guia10_EJE1\Guia10_EJE1\obj\Debug\Guia10_EJE1.Vertice.resources
+C:\Users\aleja\source\repos\Guia10_EJE1\Guia10_EJE1\obj\Debug\Guia10_EJE1.csproj.GenerateResource.cache
+C:\Users\aleja\source\repos\Guia10_EJE1\Guia10_EJE1\obj\Debug\Guia10_EJE1.csproj.CoreCompileInputs.cache
+C:\Users\aleja\source\repos\Guia10_EJE1\Guia10_EJE1\obj\Debug\Guia10_EJE1.exe
+C:\Users\aleja\source\repos\Guia10_EJE1\Guia10_EJE1\obj\Debug\Guia10_EJE1.pdb
+C:\Users\aleja\source\repos\Guia10_EJE1\Guia10_EJE1\obj\Debug\Guia10_EJE1.Arco.resources
+D:\2024 UDB\Ciclo 1\PED\Guia 11\Guia10_EJE1\Guia10_EJE1\bin\Debug\Guia10_EJE1.exe.config
+D:\2024 UDB\Ciclo 1\PED\Guia 11\Guia10_EJE1\Guia10_EJE1\bin\Debug\Guia10_EJE1.exe
+D:\2024 UDB\Ciclo 1\PED\Guia 11\Guia10_EJE1\Guia10_EJE1\bin\Debug\Guia10_EJE1.pdb
+D:\2024 UDB\Ciclo 1\PED\Guia 11\Guia10_EJE1\Guia10_EJE1\obj\Debug\Guia10_EJE1.csproj.AssemblyReference.cache
+D:\2024 UDB\Ciclo 1\PED\Guia 11\Guia10_EJE1\Guia10_EJE1\obj\Debug\Guia10_EJE1.Arco.resources
+D:\2024 UDB\Ciclo 1\PED\Guia 11\Guia10_EJE1\Guia10_EJE1\obj\Debug\Guia10_EJE1.Simulador.resources
+D:\2024 UDB\Ciclo 1\PED\Guia 11\Guia10_EJE1\Guia10_EJE1\obj\Debug\Guia10_EJE1.Properties.Resources.resources
+D:\2024 UDB\Ciclo 1\PED\Guia 11\Guia10_EJE1\Guia10_EJE1\obj\Debug\Guia10_EJE1.Vertice.resources
+D:\2024 UDB\Ciclo 1\PED\Guia 11\Guia10_EJE1\Guia10_EJE1\obj\Debug\Guia10_EJE1.csproj.GenerateResource.cache
+D:\2024 UDB\Ciclo 1\PED\Guia 11\Guia10_EJE1\Guia10_EJE1\obj\Debug\Guia10_EJE1.csproj.CoreCompileInputs.cache
+D:\2024 UDB\Ciclo 1\PED\Guia 11\Guia10_EJE1\Guia10_EJE1\obj\Debug\Guia10_EJE1.exe
+D:\2024 UDB\Ciclo 1\PED\Guia 11\Guia10_EJE1\Guia10_EJE1\obj\Debug\Guia10_EJE1.pdb
